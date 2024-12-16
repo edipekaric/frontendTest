@@ -2,8 +2,8 @@
 
 - Download and install node.js - https://nodejs.org/en
 - Download and install google - https://www.google.com/intl/en_uk/chrome/
-- Test setup @ line 8 of code await driver.get("http://localhost:5173"); , change last 4 digits to whatever your local host is
 - After You are in the folder holding the project You need to pull this repository with `git clone https://github.com/edipekaric/frontendTest`
+- Test setup @ line 8 of code await driver.get("http://localhost:5173"); , change last 4 digits to whatever your local host is
 - Afte that You need to download dependencies in the project
 - `npm install selenium-webdriver`
 - `npm install chromedriver`
