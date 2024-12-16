@@ -2,7 +2,8 @@
 
 - Download and install node.js - https://nodejs.org/en
 - Download and install google - https://www.google.com/intl/en_uk/chrome/
-- After You are in the folder holding the project You need to pull this repository with `git clone https://github.com/edipekaric/frontendTest`
+- Pull the project from moodle or from github page - https://github.com/edipekaric/frontend
+- The git repository already has the test
 - Test setup @ line 8 of code await driver.get("http://localhost:5173"); , change last 4 digits to whatever your local host is
 - Afte that You need to download dependencies in the project
 - `npm install selenium-webdriver`
